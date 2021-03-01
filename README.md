@@ -10,8 +10,11 @@ Note that this may includes some bugs. Thank you for notifying bug reports.
 	./play
 
 ## Build
-If you build game binary file from source, run commands below
+If you build game binary file from source, run commands below.
+
 	git clone https://github.com/matsuda-slab/ChodaiTower2
 	make
+
 and just run
+
 	./play
