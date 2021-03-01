@@ -6,13 +6,13 @@ Note that this may includes some bugs. Thank you for notifying bug reports.
 * JDK
 
 ## Quick Play
-	git clone https://github.com/matsuda-slab/ChodaiTower2
+	git clone https://github.com/matsuda-slab/ChodaiTower2.git
 	./play
 
 ## Build
 If you build game binary file from source, run commands below.
 
-	git clone https://github.com/matsuda-slab/ChodaiTower2
+	git clone https://github.com/matsuda-slab/ChodaiTower2.git
 	make
 
 and just run
