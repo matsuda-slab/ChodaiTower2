@@ -1,5 +1,5 @@
 # ChodaiTower2
-A console game that was made with author's personal preference, bias or just ideas. \\
+A console game that was made with author's personal preference, bias or just ideas.  
 Note that this may includes some bugs. Thank you for notifying bug reports.
 
 ## Requirements
