@@ -5,3 +5,4 @@ jar/mySaveData/
 bin/save.dat
 doc/*
 src
+Makefile
